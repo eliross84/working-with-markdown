@@ -72,6 +72,8 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](http://content.sportslogos.net/logos/7/162/full/1532_kansas_city_chiefs-helmet-1972.png "Kansas City Chiefs Logo")
 
+-[Information for Sunday's AFC Championship matchup](https://www.google.com/search?q=kansas+city+chiefs&rlz=1C1GCEA_enUS757US757&oq=kansas+city+chiefs&aqs=chrome.0.69i59l2j0l4.2723j1j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11f5hl3n6d;6;/m/059yj;dt;fp;1;; "Patriots @ Chiefs")
+
 ## Paragraphs
 
 Lines directly below one another will wrap into a single paragraph. 
