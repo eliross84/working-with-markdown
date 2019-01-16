@@ -56,7 +56,12 @@ Code should be fenced using three backtics ` on the line above and the line belo
 After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Windows terminal commands) or Bash (for Git Bash commands). 
 
 ```JAVA
-dir
+if(chiefsScore == 42){
+  return "Super Bowl Bound!";
+}
+else{
+  return "At least Mahomes is here for four more years!";
+}
 ```
 
 ## Displaying Images
