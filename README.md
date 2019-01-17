@@ -70,9 +70,16 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
+## Kansas City Chiefs
 ![Hosted image](http://content.sportslogos.net/logos/7/162/full/1532_kansas_city_chiefs-helmet-1972.png "Kansas City Chiefs Logo")
 
 -[Information for Sunday's AFC Championship matchup](https://www.google.com/search?q=kansas+city+chiefs&rlz=1C1GCEA_enUS757US757&oq=kansas+city+chiefs&aqs=chrome.0.69i59l2j0l4.2723j1j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11f5hl3n6d;6;/m/059yj;dt;fp;1;; "Patriots @ Chiefs")
+
+Patrick Mahomes did not make it to potentially being the league MVP by himself, but he had the help of many teammates such as:
+1. Travis Kelce
+2. Damien Williamson
+1. Tyreek Hill
+1. And many others...
 
 ## Paragraphs
 
